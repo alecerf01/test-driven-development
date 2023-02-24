@@ -39,6 +39,7 @@ const promptForEngineer = () => {
         //engineer questions
     }]).then(response => {
         // add new engineer to employees array
+        // employees.push(new Engineer("",... , ...))
         // promptForNextEmployee
     })
 }
